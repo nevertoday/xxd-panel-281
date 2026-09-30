@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 281"
+  short_description: "象形生命：上半保留原照，下半把主体收成带一点生命感的象形符号"
+  default_prompt: "Use $xxd-panel-281 to transform my photograph following the complete canonical source brief."
