@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 281｜Living Pictograph: keeps the photo and reduces its subject to one small neo-naive pictograph — a flat, dark shape of irregular rounded geometry with only a few key features, ninety per cent order and ten per cent oddness (a slight tilt, a proportion off, an uneven edge), sometimes lit by one tiny eye or a deadpan hint of expression — over a faint offset underlay in pale grey-blue, grey-violet or another soft cool tone, on warm white in a near-monochrome palette, flat 2D with no lighting, gradients or highlights, placed centred, off-centre, at the edge or slightly cropped in extreme whitespace, with a few small editorial words or numbers. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-281 or asks for a deadpan pictograph, anthropomorphic glyph or lo-fi flat symbol from a photo.",
+  "short_description": "象形生命：把照片主体收成一个扁平深色、带一点点生命感的冷幽默象形符号",
+  "zh-CN": {
+    "name": "象形生命",
+    "tagline": "把照片主体收成一个扁平、深色、面无表情却有一点生命感的小象形。",
+    "look": "原照片保留；主体被压成不规则圆角几何的扁平深色形体，只留少量关键特征，九成规整、一成异常：轻微歪斜、比例偏一点、边缘不完全齐。可以点上一粒很小的眼睛或一丝表情，像打开了生命开关，但面无表情、不卖萌。形体下面错开一层很淡的灰蓝、灰紫等冷色底版，像印刷错版，而不是阴影。暖白底、近单色，没有光影、渐变和高光；符号可以居中、偏心、贴边或轻微裁切，周围大片留白，旁边几个小字或编号。",
+    "traits": ["新稚拙象形", "轻微拟人", "错版底色", "极端留白", "扁平符号"],
+    "good": [
+      "轮廓简单、能概括成一块形体的主体：一只企鹅、一个邮筒、一棵圆树、一个背影",
+      "有一点冷幽默感的物件或动物：一只呆坐的鸽子、一个歪着的路牌、一把孤零零的椅子",
+      "想做成出版物标记、展览小符号或个人标识的照片"
+    ],
+    "poor": [
+      "想保留照片色彩和光影的需求，这里只剩深色扁平形和一层淡底",
+      "需要清楚表达五官或复杂动作的人像",
+      "想要可爱吉祥物、标准 App 图标、渐变高光或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Living Pictograph",
+    "tagline": "Turns the subject of your photo into one small flat, dark, deadpan pictograph with a hint of life.",
+    "look": "Your photo stays; the subject is pressed into a flat, dark shape of irregular rounded geometry with only a few key features: ninety per cent orderly, ten per cent odd, with a slight tilt, a proportion just off and edges not quite even. A single tiny eye or the faintest expression may switch it on, but it stays deadpan, never cute. Beneath it sits a faint offset underlay in pale grey-blue, grey-violet or a similar cool tone, like a misregistered print plate rather than a shadow. Warm white ground, near-monochrome, no lighting, gradients or highlights; the mark can sit centred, off-centre, at an edge or slightly cropped in wide whitespace, with a few small words or numbers.",
+    "traits": ["Neo-naive pictograph", "Subtle personification", "Offset underlay", "Extreme whitespace", "Flat symbol"],
+    "good": [
+      "Simple outlines that reduce to one shape: a penguin, a postbox, a round tree, a figure seen from behind",
+      "Objects or animals with a touch of dry humour: a pigeon sitting blankly, a leaning road sign, a lone chair",
+      "Photos you want as a publication mark, a small exhibition symbol or a personal identity"
+    ],
+    "poor": [
+      "Wanting the photo's colour and light kept, since only a dark flat shape and a faint underlay remain",
+      "Portraits that need clear facial features or complex action",
+      "Requests for a cute mascot, a standard app icon, glossy gradients or 3D"
+    ]
+  },
+  "ja": {
+    "name": "生きている象形",
+    "tagline": "写真の主役を、平らで暗い色の、無表情なのに少し生き物めいた小さな象形にします。",
+    "look": "元の写真は残し、主役を不規則な角丸の幾何学でできた平らな暗色の形に押し込め、決め手の特徴だけをわずかに残します。九割は整然、一割は異常で、少し傾き、比率がわずかにずれ、縁も完全には揃いません。小さな目をひと粒、あるいはかすかな表情を灯して命のスイッチを入れることもありますが、無表情のままで、かわいさは売りません。形の下には淡いグレーブルーやグレーバイオレットなどの寒色の版がずれて重なり、影ではなく版ずれのように見えます。温かな白地にほぼ単色で、光と影、グラデーション、ハイライトはなく、記号は中央、端寄せ、縁沿い、少し切れた位置などに置かれ、広い余白と小さな文字や番号が添えられます。",
+    "traits": ["ネオ素朴の象形", "控えめな擬人化", "版ずれの下地", "大胆な余白", "フラットな記号"],
+    "good": [
+      "ひとつの形にまとめやすい単純な輪郭：ペンギン、郵便ポスト、丸い木、後ろ姿",
+      "とぼけたユーモアのある物や動物：ぼんやり座る鳩、傾いた道路標識、ぽつんとある椅子",
+      "出版物のマーク、展示の小さな記号、個人のロゴにしたい写真"
+    ],
+    "poor": [
+      "写真の色や光を残したい場合（残るのは暗い平面と淡い下地だけです）",
+      "目鼻立ちや複雑な動きをはっきり見せたい人物写真",
+      "かわいいマスコット、標準的なアプリアイコン、グラデーションやハイライト、3Dを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "살아 있는 상형",
+    "tagline": "사진 속 주인공을 납작하고 어두운, 무표정하지만 조금 살아 있는 작은 상형으로 바꿉니다.",
+    "look": "원본 사진은 남기고, 주인공을 불규칙한 둥근 모서리 기하로 된 납작하고 어두운 형태로 눌러 핵심 특징만 조금 남깁니다. 아흔 퍼센트는 질서, 열 퍼센트는 이상함이라 살짝 기울고 비례가 조금 어긋나며 가장자리도 완전히 고르지 않습니다. 아주 작은 눈 하나나 희미한 표정으로 생명 스위치를 켜기도 하지만 끝까지 무표정하고 귀여운 척하지 않습니다. 형태 아래에는 옅은 회청색이나 회보라 같은 차가운 색 판이 어긋나게 깔려, 그림자가 아니라 인쇄 판 어긋남처럼 보입니다. 따뜻한 흰 바탕에 거의 단색이며 빛과 그림자, 그라데이션, 하이라이트가 없고, 심벌은 가운데, 한쪽, 가장자리, 살짝 잘린 자리 등에 놓여 넓은 여백과 작은 글자나 번호가 함께합니다.",
+    "traits": ["네오 나이브 상형", "절제된 의인화", "어긋난 밑판", "극단적 여백", "평면 심벌"],
+    "good": [
+      "한 덩어리로 줄이기 쉬운 단순한 윤곽: 펭귄, 우체통, 둥근 나무, 뒷모습",
+      "건조한 유머가 있는 물건이나 동물: 멍하니 앉은 비둘기, 기울어진 도로 표지판, 덩그러니 놓인 의자",
+      "출판물 마크, 전시용 작은 심벌, 개인 아이덴티티로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사진의 색과 빛을 살리고 싶은 경우(어두운 평면과 옅은 밑판만 남습니다)",
+      "이목구비나 복잡한 동작을 또렷이 보여 줘야 하는 인물 사진",
+      "귀여운 마스코트, 표준 앱 아이콘, 그라데이션과 하이라이트, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الرسم التصويري الحي",
+    "tagline": "يحوّل العنصر الرئيسي في صورتك إلى رمز تصويري صغير مسطح داكن، جامد الملامح لكن فيه لمحة حياة.",
+    "look": "تبقى صورتك، ويُضغط العنصر في شكل مسطح داكن من هندسة مستديرة الزوايا غير منتظمة، لا يبقى منه إلا ملامح أساسية قليلة: تسعون في المئة نظام وعشرة في المئة غرابة، فيه ميل خفيف ونسبة منحرفة قليلاً وحواف غير مستوية تماماً. قد تُضاف عين صغيرة جداً أو أخفّ تعبير كأنه زر يشغّل الحياة، لكنه يبقى جامد الملامح بلا تدلل. تحته طبقة باهتة منزاحة بلون بارد كالأزرق الرمادي أو البنفسجي الرمادي، تشبه لوح طباعة غير مضبوط لا ظلاً. الخلفية بيضاء دافئة والألوان شبه أحادية، بلا إضاءة ولا تدرجات ولا لمعان، ويوضع الرمز في الوسط أو جانباً أو عند الحافة أو مقصوصاً قليلاً وسط فراغ واسع، مع كلمات أو أرقام صغيرة قليلة.",
+    "traits": ["رسم تصويري ساذج جديد", "أنسنة خفيفة", "طبقة سفلية منزاحة", "فراغ واسع جداً", "رمز مسطح"],
+    "good": [
+      "خطوط خارجية بسيطة تُختصر في شكل واحد: بطريق، صندوق بريد، شجرة مستديرة، شخص من الخلف",
+      "أغراض أو حيوانات فيها فكاهة جافة: حمامة جالسة بلا اكتراث، لافتة طريق مائلة، كرسي وحيد",
+      "صور تريدها علامة لمطبوعة أو رمزاً صغيراً لمعرض أو هوية شخصية"
+    ],
+    "poor": [
+      "الرغبة في الاحتفاظ بألوان الصورة وضوئها، إذ لا يبقى إلا شكل داكن مسطح وطبقة باهتة",
+      "صور شخصية تحتاج ملامح وجه واضحة أو حركة معقدة",
+      "طلب تميمة لطيفة أو أيقونة تطبيق قياسية أو تدرجات لامعة أو مظهر ثلاثي الأبعاد"
+    ]
+  }
+}

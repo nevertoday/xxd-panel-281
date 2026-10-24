@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-281
-description: "Create XXD Panel 281 raster artwork: a faithful photograph paired with one neo-naive pictographic glyph, a hint of deadpan life and a pale offset underlay. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-281 or asks for this 象形生命 style."
+description: "XXD Panel 281｜Living Pictograph: keeps the photo and reduces its subject to one small neo-naive pictograph — a flat, dark shape of irregular rounded geometry with only a few key features, ninety per cent order and ten per cent oddness (a slight tilt, a proportion off, an uneven edge), sometimes lit by one tiny eye or a deadpan hint of expression — over a faint offset underlay in pale grey-blue, grey-violet or another soft cool tone, on warm white in a near-monochrome palette, flat 2D with no lighting, gradients or highlights, placed centred, off-centre, at the edge or slightly cropped in extreme whitespace, with a few small editorial words or numbers. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-281 or asks for a deadpan pictograph, anthropomorphic glyph or lo-fi flat symbol from a photo."
 ---
 
 # XXD Panel 281
